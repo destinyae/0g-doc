@@ -45,7 +45,7 @@ We are interested in vulnerabilities that result in incorrect behavior of the sm
 - Overflows and underflows
 
 ### Out-of-Scope Vulnerabilities: 
-The following are out of scope for the bug bounty program:
+The following are out of the scope of the bug bounty program:
 
 - Theoretical vulnerabilities without proof or demonstration
 - Old compiler versions
@@ -80,12 +80,12 @@ Rewards are based on the severity of the discovered vulnerability:
 
 - Avoid using web application scanners for automatic vulnerability searching which generates massive traffic
 - Make every effort not to damage or restrict the availability of products, services, or infrastructure
-- Avoid compromising any personal data, interruption, or degradation of any service
+- Avoid compromising any personal data, interrupting, or degrading any service
 - Don’t access or modify other user data, localize all tests to your accounts
 - Perform testing only within the scope
 - Don’t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam
 - Don’t spam forms or account creation flows using automated scanners
-- In case you find chain vulnerabilities we’ll pay only for vulnerability with the highest severity.
+- In case you find chain vulnerabilities we’ll pay only for vulnerabilities with the highest severity.
 - Don’t break any law and stay in the defined scope
 - Any details of found vulnerabilities must not be communicated to anyone who is not a HackenProof Team or an authorized employee of this Company without appropriate permission
 
@@ -98,7 +98,7 @@ Rewards are based on the severity of the discovered vulnerability:
 
 ### Eligibility and Coordinated Disclosure
 
-We are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:
+We are happy to thank everyone who submits valid reports which help us improve the security. However, only those who meet the following eligibility requirements may receive a monetary reward:
 
 - You must be the first reporter of a vulnerability.
 - The vulnerability must be a qualifying vulnerability
